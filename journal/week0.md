@@ -2,6 +2,20 @@
 
 > [Overview](https://www.youtube.com/watch?v=SG8blanhAOg&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=12 )
 
+## Conceptual Architectural Diagram
+
+![conceptual design](../_docs/assets/conceptual.PNG)
+
+diagram link [here](https://drive.google.com/file/d/1_YwxL_bayS7ynSMRPpSoEIhtVynCgwrN/view?usp=sharing)
+
+## Logical Architectural Diagram
+
+![logical design](../_docs/assets/logical.PNG)
+
+diagram link [here](https://lucid.app/lucidchart/3ec59bb4-2918-4544-aeae-2b5766ed064e/edit?viewport_loc=-198%2C219%2C2974%2C1506%2C0_0&invitationId=inv_43435319-4954-4469-a3d7-dfa7333155de)
+
+----------------------------------------------------------
+
 ## AWS CLI
 
 - Installed AWS CLI
