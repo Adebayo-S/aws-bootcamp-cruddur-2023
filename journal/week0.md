@@ -115,3 +115,70 @@ Two budgets created:
 On IAM Console, I created a new user, and generated AWS credentials.
 
 ![IAM user](../_docs/assets/user.PNG)
+
+## Questions for each of the five pillars in the Well-Architected Tool
+
+**Operational Excellence:**
+
+- How do you manage your operations and risks?
+
+- How do you monitor resources to improve performance?
+
+- How do you manage and automate changes to your application and infrastructure?
+
+- How do you respond to and learn from operational events?
+
+**Security:**
+
+- How do you protect your system and data?
+
+- How do you manage identities and access?
+
+- How do you prepare for security events?
+
+- How do you secure your network?
+
+**Reliability:**
+
+- How do you recover from infrastructure or service disruptions?
+
+- How do you handle change management?
+
+- How do you test your system's recovery procedures?
+
+- How do you anticipate and prevent failures?
+
+**Performance Efficiency:**
+
+- How do you use computing resources efficiently?
+
+- How do you monitor your system to maintain performance?
+
+- How do you use scaling to meet changing demands?
+
+- How do you analyze and optimize performance?
+
+**Cost Optimization:**
+
+- How do you use cloud resources efficiently?
+
+- How do you manage cost over time?
+
+- How do you monitor usage and cost?
+
+- How do you analyze and attribute expenditure?
+
+These questions help identify potential areas of improvement in your architecture across each of the five pillars. By addressing the areas of improvement identified by the questions, you can ensure that your architecture is well-architected and optimized for the cloud.
+
+## Summary
+
+I completed the tasks for the week without any noteworthy challenges.
+Tasks I completed this week:
+
+- Watched all the video series for the week
+- Created the conceptual diagram in Draw.io
+- Created the logical architectural diagram in Luciddraw
+- Created an AWS budget using the console and the CLI using the requisite config json file
+- Cost Allocation Tags activated for tagged resources
+- Explored Cost Explorer and Reports in AWS Cost Management, to analyze and generate reports on costs and budgets
+- Managed Billing Alerts in Billing preferences to send alerts via SNS when a particular threshold is met
